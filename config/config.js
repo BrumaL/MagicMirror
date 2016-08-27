@@ -41,8 +41,8 @@ var config = {
 			position: 'top_right',
 			config: {
 				location: 'New York',
-				locationID: '',  //ID from http://www.openweathermap.org
-				appid: 'YOUR_OPENWEATHER_API_KEY'
+				locationID: '5128581',  //ID from http://www.openweathermap.org
+				appid: 'a11b285b4f66204972f96028490bafc3'
 			}
 		},
 		{
@@ -52,7 +52,7 @@ var config = {
 			config: {
 	            location: 'New York',
 				locationID: '5128581',  //ID from http://www.openweathermap.org
-	            appid: 'YOUR_OPENWEATHER_API_KEY'
+	            appid: 'a11b285b4f66204972f96028490bafc3'
 			}
 		},
 		{
